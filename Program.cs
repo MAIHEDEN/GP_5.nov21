@@ -28,6 +28,9 @@
 
 //ctrl D ret kode ind
 
+//lalalalafoarjngjsrbjsRBOJW
+
+
 #region array, 
 //ARRAY multipledimension
 int[,] lotto = new int[3, 7]; //tre rækker med 7 tal i hver
