@@ -29,6 +29,7 @@
 //ctrl D ret kode ind
 
 //lalalalafoarjngjsrbjsRBOJW
+//pijglsjdbgkjsbgkjb
 
 
 #region array, 
